@@ -1,2 +1,2 @@
 # WEBDEV-Project
-this is my first year end project with react and deployment
+this is my first year end project with javascript and deployment
